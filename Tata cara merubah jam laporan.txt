@@ -1,0 +1,20 @@
+Cara ubah kodingan agar dia running pada jam yang diinginkan:
+1. pergi ke folder "LoRa Ultimate Automation"
+2. Cari file "LoRaAPI Master ver.1.py" lalu klik kanan, pilih open with: Visual Studio Code
+3. Pergi ke bagian paling bawah programnya, cari kata: #schedule.every().hour.at(":15").do(lambda: tugasUtama())
+4. Ubah ":15" nya menjadi menit yang diinginkan (contoh ingin running menit ke 23, maka diketik: 
+	#schedule.every().hour.at(":23").do(lambda: tugasUtama())
+5. hilangkan tanda pagar(#) untuk mengaktifkan kode nya. 
+6. klik ctrl + s (save)
+7. Buka cmd lalu pergi ke C:\Users\t\Documents\LoRa Ultimate Automation (kalau cmd nya sudah terbuka, tidak perlu diulang)
+8. hentikan jalannya program dengan mengklik ctrl + c 
+9. jalankan kembali programnya dengan mengklik tanda panah atas (^) maka akan muncul (python "LoRaAPI Master ver.1.py").
+10. klik enter. tunggu agar program berjalan sesuai waktunya dan akan muncul peringatan (Message successfully sent to telegram)
+11. Setelah pesan terkirim ke telegram, lakukan lagi step 1 dan 2
+12. Pergi ke bagian paling bawah programnya, cari kata: schedule.every().hour.at(":23").do(lambda: tugasUtama()) (kode yang sebelumnya kita ubah)
+13. Berikan tanda pagar(#) lagi pada bagian paling depan kode. contoh:	
+		#schedule.every().hour.at(":23").do(lambda: tugasUtama())
+14. lakukan kembali step 6 sampai step 9
+15. Selesai. 
+
+

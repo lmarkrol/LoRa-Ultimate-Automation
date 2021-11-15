@@ -1,0 +1,9 @@
+Step -step untuk run ulang program:
+1. buka cmd
+2. ketik: cd Documents
+3. ketik: cd "LoRa Ultimate Automation"
+4. ketik: python "LoRaAPI Master ver.1.py"
+
+Folder run_script.cmd:
+C:\Users\username\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+

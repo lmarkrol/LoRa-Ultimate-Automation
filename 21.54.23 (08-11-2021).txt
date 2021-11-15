@@ -1,0 +1,198 @@
+
+
+__________________________________All Gateway Down____________________________________
+1 - TR1 - JMB - Tower STO Mandalo Down (Ethernet, Mobile, error) pukul 21:53:27 (08-11-2021) selama 0d0h0m55s
+2 - IGM Banjarmasin Down (Ethernet, Lora error) pukul 21:52:51 (08-11-2021) selama 0d0h1m31s
+3 - TR3 - TSM - Tower STO Banjar Down (Ethernet, Lora error) pukul 21:52:37 (08-11-2021) selama 0d0h1m46s
+4 - Tower STO Pekayon Down (Ethernet, Lora error) pukul 21:52:17 (08-11-2021) selama 0d0h2m5s
+5 - Tower STO Lamongan Down (Ethernet, Mobile, Lora error) pukul 21:51:21 (08-11-2021) selama 0d0h3m1s
+6 - TR5 - PSN - Tower STO Kraksaan Down (Ethernet, Lora error) pukul 21:51:13 (08-11-2021) selama 0d0h3m9s
+7 - Tower STO Marunda Down (Ethernet, Mobile, Lora error) pukul 21:50:47 (08-11-2021) selama 0d0h3m36s
+8 - Browan Macro Gateway Down (Power, Lora error) pukul 21:42:48 (08-11-2021) selama 0d0h11m34s
+9 - Biotis GW 03_1 Down (Power, Ethernet, Mobile, Lora error) pukul 21:42:42 (08-11-2021) selama 0d0h11m40s
+10 - MUBA - Karang Ringin Down (Ethernet, Lora error) pukul 20:29:31 (08-11-2021) selama 0d1h24m51s
+11 - MUBA - Sialang Agung (2) Down (Power, Ethernet, Lora error) pukul 20:29:30 (08-11-2021) selama 0d1h24m52s
+12 - Icode Femto Gateway Down (Power, Ethernet, Mobile, Lora error) pukul 20:25:19 (08-11-2021) selama 0d1h29m4s
+13 - TR3 - CBN - Tower STO Kuningan Down (Power, Ethernet, Lora error) pukul 14:21:47 (08-11-2021) selama 0d7h32m36s
+14 - Murata Indoor Gateway Down (Power, Ethernet, Mobile, Lora error) pukul 09:36:12 (08-11-2021) selama 0d12h18m11s
+15 - TR5 - DPR - Tower STO Nusadua (BARU) Down (Mobile, Lora error) pukul 07:03:49 (08-11-2021) selama 0d14h50m33s
+16 - TR4 - MGG - Tower STO Gombong Down (Power, Ethernet, Lora error) pukul 14:43:49 (07-11-2021) selama 1d7h10m33s
+17 - MUBA Berlian Makmur (3) Down (Ethernet, Lora error) pukul 10:39:46 (06-11-2021) selama 2d11h14m36s
+18 - Tower STO Bukit Raya Down (Power, Ethernet, Lora error) pukul 19:06:12 (03-11-2021) selama 5d2h48m10s
+19 - Tower STO Jababeka Down (Power, Ethernet, Lora error) pukul 19:01:01 (02-11-2021) selama 6d2h53m21s
+20 - Tower STO Ganda Mekar Down (Ethernet, Lora error) pukul 14:48:48 (02-11-2021) selama 6d7h5m34s
+21 - Tower STO Pamekasan Down (Power, Ethernet, Lora error) pukul 14:32:03 (02-11-2021) selama 6d7h22m19s
+22 - TR4 - SLO - Tower STO Salatiga Down (Power, Ethernet, Lora error) pukul 19:29:01 (01-11-2021) selama 7d2h25m22s
+23 - Tower STO Gombel Down (Lora error) pukul 19:29:25 (31-10-2021) selama 8d2h24m57s
+24 - TR3 - BDG - Tower Witel Lembong Down (Power, Ethernet, Lora error) pukul 16:51:25 (31-10-2021) selama 8d5h2m57s
+25 - TR2 - TNG - Tower STO Curug (BARU) Down (Ethernet, Lora error) pukul 18:50:04 (30-10-2021) selama 9d3h4m18s
+26 - KF PCI Cilegon Down (Power, Ethernet, Mobile, Lora error) pukul 09:54:24 (30-10-2021) selama 9d11h59m59s
+27 - TR1 - BDL - Tower STO Kota Agung Down (Power, Ethernet, Lora error) pukul 08:33:33 (30-10-2021) selama 9d13h20m49s
+28 - Everynet Kerlink Test 4 Down (Lora error) pukul 11:50:03 (29-10-2021) selama 10d10h4m19s
+29 - Telkom_Ifemto_Evo Down (Power, Mobile, Lora error) pukul 22:53:20 (28-10-2021) selama 10d23h1m2s
+30 - TR5 - MLG - Tower STO Pagak Down (Power, Ethernet, Lora error) pukul 17:17:50 (28-10-2021) selama 11d4h36m32s
+31 - Femto Gateway KF Lippo Karawaci Down (Power, Ethernet, Mobile, Lora error) pukul 15:31:39 (28-10-2021) selama 11d6h22m43s
+32 - TR5 - SBY - Tower STO Bambe Down (Power, Ethernet, Lora error) pukul 15:01:20 (28-10-2021) selama 11d6h53m2s
+33 - Femto Gateway KF Mendrisio Down (Power, Ethernet, Mobile, Lora error) pukul 13:55:38 (28-10-2021) selama 11d7h58m44s
+34 - TR3 - CBN - Tower STO Kanci Down (Ethernet, Lora error) pukul 18:27:01 (22-10-2021) selama 17d3h27m21s
+35 - Telkomsat Gateway Down (Mobile, Lora error) pukul 15:44:24 (21-10-2021) selama 18d6h9m58s
+36 - Tower STO Ciwandan Down (Ethernet, Lora error) pukul 01:23:12 (18-10-2021) selama 21d20h31m10s
+37 - MUBA - Tower STO Betung Down (Ethernet, Lora error) pukul 01:42:15 (13-10-2021) selama 26d20h12m7s
+38 - Biotis GW 03_2 Down (Power, Mobile, Lora error) pukul 07:54:56 (12-10-2021) selama 27d13h59m26s
+39 - TR5 - MLG - Tower STO Sawojajar Down (Power, Ethernet, Lora error) pukul 14:22:27 (08-10-2021) selama 31d7h31m55s
+40 - TR1 - MDN - Tower STO Tanjung Morawa Down (Power, Ethernet, Lora error) pukul 19:12:35 (07-10-2021) selama 32d2h41m47s
+41 - IGM Padang Down (Power, Ethernet, Lora error) pukul 17:12:14 (29-09-2021) selama 40d4h42m9s
+42 - Rasuna lt. 15 Tower 8 Down (Power, Ethernet, Mobile, Lora error) pukul 10:17:29 (25-09-2021) selama 44d11h36m54s
+43 - Femto IGM Pontianak 2 Down (Power, Ethernet, Mobile, Lora error) pukul 14:08:26 (20-09-2021) selama 49d7h45m56s
+44 - Kaifa Femto Gateway LA915 - Moved to ATC Down (Power, Ethernet, Mobile, Lora error) pukul 07:33:26 (14-09-2021) selama 55d14h20m56s
+45 - Tower STO Sungai Lilin Down (Power, Ethernet, Lora error) pukul 12:22:50 (13-09-2021) selama 56d9h31m32s
+46 - TR1 - JMB - Tower STO Jambi Centrum Down (Power, Ethernet, Lora error) pukul 10:48:27 (13-09-2021) selama 56d11h5m56s
+47 - Tower STO Bagan Batu Down (Power, Ethernet, Lora error) pukul 05:17:27 (10-09-2021) selama 59d16h36m55s
+48 - Tower STO Rangkas Bitung Down (Power, Ethernet, Lora error) pukul 19:24:12 (07-09-2021) selama 62d2h30m11s
+49 - Femto Gateway PDAM Semarang Down (Power, Ethernet, Mobile, Lora error) pukul 22:57:40 (04-09-2021) selama 64d22h56m42s
+50 - MUBA - Tower STO Sekayu Down (Power, Ethernet, Lora error) pukul 16:45:30 (01-09-2021) selama 68d5h8m52s
+51 - Polytron Femto Gateway Down (Power, Ethernet, Mobile, Lora error) pukul 11:15:13 (25-08-2021) selama 75d10h39m10s
+52 - Femto Gateway WiraEnergi 1 Down (Power, Ethernet, Mobile, Lora error) pukul 09:49:28 (25-08-2021) selama 75d12h4m55s
+53 - Tower DMT - Kedaung Wetan Down (Ethernet, Mobile, Lora error) pukul 09:03:19 (11-08-2021) selama 89d12h51m3s
+54 - Tower STO Bagan Siapiapi Down (Power, Ethernet, Lora error) pukul 11:15:08 (09-08-2021) selama 91d10h39m14s
+55 - TR3 - TSM - Tower STO Manonjaya Down (Power, Ethernet, Lora error) pukul 19:57:44 (01-08-2021) selama 99d1h56m38s
+56 - TR1 - MDN - Tower STO Sukaramai Down (Power, Ethernet, Lora error) pukul 00:06:18 (29-07-2021) selama 102d21h48m4s
+57 - Demo BioFarma #1 Down (Power, Ethernet, Mobile, Lora error) pukul 13:22:48 (05-07-2021) selama 126d8h31m35s
+58 - Femto Gateway WiraEnergi 3 Down (Power, Ethernet, Mobile, Lora error) pukul 08:46:13 (26-06-2021) selama 135d13h8m9s
+59 - Femto KFTD Semarang Down (Power, Ethernet, Mobile, Lora error) pukul 10:10:18 (25-06-2021) selama 136d11h44m4s
+60 - Femto IGM Malang Down (Power, Ethernet, Mobile, Lora error) pukul 07:11:35 (25-06-2021) selama 136d14h42m48s
+61 - Femto KFTD Jogja Down (Power, Ethernet, Mobile, Lora error) pukul 06:56:04 (25-06-2021) selama 136d14h58m18s
+62 - Femto IGM Jember Down (Power, Ethernet, Mobile, Lora error) pukul 21:49:12 (23-06-2021) selama 138d0h5m11s
+63 - Femto IGM Surabaya Down (Power, Ethernet, Mobile, Lora error) pukul 12:27:34 (23-06-2021) selama 138d9h26m48s
+64 - M00-JK-81822 DMT Klender Down (Power, Ethernet, Lora error) pukul 16:32:32 (02-06-2021) selama 159d5h21m50s
+65 - Gateway Demo 2 Down (Power, Ethernet, Lora error) pukul 14:13:43 (30-05-2021) selama 162d7h40m39s
+66 - TR1 - BGL - Tower STO Kepahiang Down (Ethernet, Lora error) pukul 17:33:03 (27-05-2021) selama 165d4h21m20s
+67 - Tower STO IDI Down (Power, Ethernet, Lora error) pukul 19:57:36 (26-05-2021) selama 166d1h56m47s
+68 - Tower DMT - Jl. H. Marsan Down (Power, Ethernet, Lora error) pukul 17:59:47 (22-05-2021) selama 170d3h54m35s
+69 - Telkom test icode Down (Mobile, Lora error) pukul 14:20:56 (20-05-2021) selama 172d7h33m26s
+70 - Gateway Demo 3 Down (Ethernet, Lora error) pukul 11:23:22 (30-04-2021) selama 192d10h31m0s
+71 - Tower STO Sungai Dareh Down (Power, Ethernet, Lora error) pukul 02:06:32 (28-04-2021) selama 194d19h47m50s
+72 - Tower STO Jantho Down (Ethernet, Lora error) pukul 14:13:50 (26-04-2021) selama 196d7h40m33s
+73 - TR1 - MDN - Tower STO Binjai Down (Power, Ethernet, Lora error) pukul 00:24:07 (24-04-2021) selama 198d21h30m15s
+74 - TR5 - SGR - Telkom STO Tampak Siring Down (Ethernet, Lora error) pukul 13:15:28 (16-04-2021) selama 206d8h38m54s
+75 - TR1 - MDN - Tower STO Simpang Limun Down (Lora error) pukul 21:44:18 (14-04-2021) selama 208d0h10m5s
+76 - Tower STO Kenten Down (Ethernet, Lora error) pukul 01:51:42 (12-04-2021) selama 210d20h2m40s
+77 - Tower STO Tebing Tinggi Down (Power, Ethernet, Lora error) pukul 15:47:23 (30-03-2021) selama 223d6h7m0s
+78 - Tower STO Tarutung Down (Power, Ethernet, Lora error) pukul 11:06:24 (25-03-2021) selama 228d10h47m58s
+79 - SPARE GATEWAY Down (Lora error) pukul 07:04:11 (16-03-2021) selama 237d14h50m11s
+80 - Kerlink IFemto Gateway Wira Energy 2 Down (Power, Mobile, Lora error) pukul 18:50:57 (08-03-2021) selama 245d3h3m26s
+81 - Jayapura Down (Ethernet, Lora error) pukul 09:47:15 (07-03-2021) selama 246d12h7m8s
+82 - Femto Gateway WiraEnergi 2 Down (Power, Ethernet, Mobile, Lora error) pukul 16:31:06 (02-03-2021) selama 251d5h23m17s
+83 - Tower STO Tembilahan Down (Power, Ethernet, Lora error) pukul 14:28:23 (24-02-2021) selama 257d7h25m59s
+84 - TR5 - SGR - Tower STO Amlapura Down (Power, Ethernet, Lora error) pukul 10:58:07 (17-02-2021) selama 264d10h56m16s
+85 - TR1 - BDL - Tower STO Sukadana Down (Power, Ethernet, Lora error) pukul 19:46:46 (15-02-2021) selama 266d2h7m36s
+86 - Tower DMT Meruya Down (Power, Ethernet, Lora error) pukul 20:12:48 (25-01-2021) selama 287d1h41m34s
+87 - Everynet Indonesia Mobile GW Down (Power, Ethernet, Mobile, Lora error) pukul 16:10:47 (19-01-2021) selama 293d5h43m36s
+88 - TR5 - PSN - Tower STO Bangil Down (Power, Ethernet, Lora error) pukul 15:27:56 (28-12-2020) selama 315d6h26m26s
+89 - Istation WiraEnergy Down (Mobile, Lora error) pukul 17:29:27 (26-12-2020) selama 317d4h24m56s
+90 - TR1 - MDN - Tower STO Padang Bulan Down (Power, Lora error) pukul 03:39:03 (26-12-2020) selama 317d18h15m20s
+91 - STO Kebayoran Indoor Down (Mobile, Lora error) pukul 23:10:53 (10-12-2020) selama 332d22h43m30s
+92 - MUBA - M00-SS-67445 Bina Kahuripan Down (Power, Ethernet, Lora error) pukul 19:43:39 (04-11-2020) selama 369d2h10m43s
+93 - TR1 - MDN - Tower STO Tembung Down (Power, Ethernet, Lora error) pukul 11:35:17 (15-10-2020) selama 389d10h19m6s
+94 - TR1 - MDN - Tower STO Pulau Brayan Down (Power, Ethernet, Lora error) pukul 20:27:29 (27-08-2020) selama 438d1h26m53s
+_____________________________________________________________________________________
+
+
+___________Output____________
+Total Gateway terpasang: 751
+Total Gateway warning: 19
+Total Gateway ok: 638
+Total Gateway error: 94
+Total Power error : 78
+Total Ethernet error: 676
+Total Mobile error: 55
+
+New Gateway Down: 
+1 - Tower STO Pekayon Down (Ethernet, Lora error) pukul 21:52:17 (08-11-2021) selama 0d0h2m5s
+2 - TR1 - JMB - Tower STO Mandalo Down (Ethernet, Mobile, error) pukul 21:53:27 (08-11-2021) selama 0d0h0m55s
+3 - IGM Banjarmasin Down (Ethernet, Lora error) pukul 21:52:51 (08-11-2021) selama 0d0h1m31s
+
+New Gateway Up: 
+1 - TR5 - MAD - Tower STO Jatirogo Up pukul 21:53:03 (08-11-2021)
+2 - Tower STO Cepu Up pukul 21:53:10 (08-11-2021)
+3 - TR5 - PSN - Tower STO Tongas Up pukul 21:53:17 (08-11-2021)
+4 - TR5 - MAD - Tower STO Caruban Up pukul 21:53:30 (08-11-2021)
+5 - Tower STO Sumenep Up pukul 21:53:20 (08-11-2021)
+6 - KFD Semarang Sutomo Up pukul 21:53:24 (08-11-2021)
+7 - TR5 - KDR - Tower STO Ngunut Up pukul 21:52:59 (08-11-2021)
+8 - TR4 - YYK - Tower STO Kaliurang Up pukul 21:53:21 (08-11-2021)
+9 - TR5 - MLG - Tower STO Karang Ploso Up pukul 21:53:22 (08-11-2021)
+10 - TR5 - SDA - Tower STO Gedangan Up pukul 21:53:16 (08-11-2021)
+11 - TR4 - PWT - Tower STO Klampok Up pukul 21:53:16 (08-11-2021)
+12 - TR5 - KDR - Tower STO Kandangan Up pukul 21:53:29 (08-11-2021)
+13 - TR5 - SDA - Tower STO Mojosari Up pukul 21:53:02 (08-11-2021)
+14 - TR4 - SMG - Tower STO Tugu Up pukul 21:53:15 (08-11-2021)
+15 - TR4 - PWT - Tower STO Majenang Up pukul 21:53:14 (08-11-2021)
+16 - TR5 - MLG - Tower STO Tumpang Up pukul 21:53:26 (08-11-2021)
+17 - TR4 - PKL - Tower STO Bandar Sedayu Up pukul 21:53:23 (08-11-2021)
+18 - TR3 - KWG - Tower STO Ciasem Up pukul 21:53:18 (08-11-2021)
+19 - TR4 - SMG - Tower STO Ungaran Up pukul 21:53:25 (08-11-2021)
+20 - TR4 - YYK - Tower STO Kota Gede / Banguntapan Up pukul 21:53:24 (08-11-2021)
+21 - TR5 - KDR - Tower STO Campur Darat Up pukul 21:53:15 (08-11-2021)
+22 - TR5 - MLG - Tower STO Belimbing Up pukul 21:53:13 (08-11-2021)
+23 - TR3 - SKB - Tower STO Cikalong Kulon Up pukul 21:53:24 (08-11-2021)
+24 - TR3 - CBN - Tower STO Losarang Up pukul 21:53:01 (08-11-2021)
+25 - TR3 - KWG - Tower STO Cikampek Up pukul 21:53:07 (08-11-2021)
+26 - Tower STO Kranggan (2) Up pukul 21:53:22 (08-11-2021)
+27 - Bappeda Singaparna new Up pukul 21:53:10 (08-11-2021)
+28 - PDAM IPA Tirtawening Dago Up pukul 21:53:26 (08-11-2021)
+29 - TR3 - KWG - Tower STO Kalijati Up pukul 21:53:26 (08-11-2021)
+30 - TR6 - BJM - Tower STO Negara Up pukul 21:53:13 (08-11-2021)
+31 - TR3 - SKB - Tower STO Sindanglaya Up pukul 21:53:21 (08-11-2021)
+32 - Tower STO Kramat Watu (2) Up pukul 21:53:20 (08-11-2021)
+33 - TR3 - SKB - Tower STO Cicurug Up pukul 21:53:28 (08-11-2021)
+34 - TR3 - KWG - Tower STO Ciampel Up pukul 21:53:19 (08-11-2021)
+35 - TR5 - SBY - Tower STO Tropodo Up pukul 21:53:18 (08-11-2021)
+36 - TR5 - SGR - Tower STO Singaraja Up pukul 21:53:22 (08-11-2021)
+37 - TR5 - SGR - Tower STO Lovina Up pukul 21:53:19 (08-11-2021)
+38 - TR4 - YYK - Tower STO Kentungan Up pukul 21:53:22 (08-11-2021)
+39 - Tower STO Kresek Up pukul 21:53:24 (08-11-2021)
+40 - Tower STO Nongsa Up pukul 21:53:07 (08-11-2021)
+41 - Tower STO Langsa Up pukul 21:53:19 (08-11-2021)
+42 - TR2 - TNG - Tower STO Parung Panjang Up pukul 21:53:11 (08-11-2021)
+43 - Telkom University Bandung Up pukul 21:53:23 (08-11-2021)
+44 - Tower STO Air Molek Up pukul 21:53:24 (08-11-2021)
+45 - Tower STO Padang Panjang Up pukul 21:53:19 (08-11-2021)
+46 - TR4 - YYK - Tower STO Sleman Up pukul 21:53:17 (08-11-2021)
+47 - TR3 - BDG - STO Ujung Berung Up pukul 21:53:08 (08-11-2021)
+48 - TR4 - YYK - Tower STO Wates Jogja Up pukul 21:53:16 (08-11-2021)
+49 - Tower STO Bojot Up pukul 21:53:25 (08-11-2021)
+50 - TR3 - BDG - Tower STO Kopo Up pukul 21:53:22 (08-11-2021)
+51 - TR5 - SGR - Tower STO Seririt Up pukul 21:53:22 (08-11-2021)
+52 - TR5 - SGR - Tower STO Kintamani Up pukul 21:53:04 (08-11-2021)
+53 - Tower STO Sigli Up pukul 21:53:23 (08-11-2021)
+54 - TR1 - BDL - Tower STO Kalianda Up pukul 21:53:24 (08-11-2021)
+55 - Tower STO Sebrang Ulu Up pukul 21:53:17 (08-11-2021)
+56 - Tower STO Perdagangan Up pukul 21:53:12 (08-11-2021)
+57 - Tower STO Indra Jaya Up pukul 21:53:25 (08-11-2021)
+58 - TR4 - PWT - Tower STO Kroya Up pukul 21:53:23 (08-11-2021)
+59 - Tower STO Rumbai Up pukul 21:53:15 (08-11-2021)
+60 - Tower STO Bangka Belitung Up pukul 21:53:25 (08-11-2021)
+61 - Tower STO Payakumbuh Up pukul 21:52:57 (08-11-2021)
+62 - Tower STO Pondok Gede (2) Up pukul 21:53:07 (08-11-2021)
+63 - TR1 - BDL - Tower STO Kedaton Up pukul 21:53:21 (08-11-2021)
+64 - Tower STO Batam Center Up pukul 21:53:12 (08-11-2021)
+65 - Tower STO Kisaran Up pukul 21:53:27 (08-11-2021)
+66 - Tower STO Tanjung Balai Up pukul 21:53:15 (08-11-2021)
+67 - Tower STO Lubuk Linggau Up pukul 21:53:11 (08-11-2021)
+68 - TR1 - BDL - Tower STO Simpang Palas Up pukul 21:53:13 (08-11-2021)
+69 - TR1 - BDL - Tower STO Tanjung Karang Up pukul 21:53:03 (08-11-2021)
+70 - TR1 - BDL - Tower STO Natar Up pukul 21:53:22 (08-11-2021)
+71 - Tower STO Palembang Centrum Up pukul 21:53:08 (08-11-2021)
+72 - STO Curuk Up pukul 21:53:27 (08-11-2021)
+73 - Tower STO Baturaja Up pukul 21:53:24 (08-11-2021)
+74 - TR4 - SMG - Tower STO Johar Up pukul 21:53:24 (08-11-2021)
+75 - Tower STO Jagakarsa Up pukul 21:52:52 (08-11-2021)
+76 - Tower STO JIAC/ BUISH Up pukul 21:53:30 (08-11-2021)
+77 - TR1 - MDN - Tower STO Medan Centrum Up pukul 21:52:49 (08-11-2021)
+78 - TR2 - TNG - Tower STO Kronjo Up pukul 21:53:13 (08-11-2021)
+79 - TR4 - SLO - Tower STO Kartosuro Up pukul 21:52:56 (08-11-2021)
+80 - Tower STO Kapasan Up pukul 21:52:51 (08-11-2021)
+81 - Tower STO Cempaka Putih (Baru) Up pukul 21:53:27 (08-11-2021)
+82 - TR5 - JMR - Tower STO Genteng Up pukul 21:53:15 (08-11-2021)
+_____________________________
